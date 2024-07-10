@@ -1,18 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGLTFzHVMDMxw/profile-displaybackgroundimage-shrink_350_1400/0/1705334425311?e=1710979200&v=beta&t=tPt405UCyPsi21cQgRR8SCB2uD771Z-J2jJlCB3vqBA)
-
-### Hi there 👋, I'am Shimon Ahamed Jibon
-#### I am GitHub Readme Generator's creator
-
-
-Hi ! I am SM Jiban Ahmed son of Md. Ataher PK. And My Mother Miss Emali Khatun .I am from Bangladesh, city Bogra. And I am 19 years old. Now I am studying Diploma in Engineering College TMSS Institute of Science and ICT, Bogra, Bangladesh. I am doing diploma in computer science. I learned web-design, web-development. . And with the help of Allah, I am constantly learning. I love my work very much. For me, my work is my main passion. I always want to learn something new. So I always beat myself up so I can always improve. I want to be a skilled and well educated web developer. I am always ready for that. I know programming language. I am web development html,css,bootstrap,javascript,react js,node js,express js,mongodb.
-
-Skills: html,css,bootstrap,javascript,react js,node js,express js,mongodb
-
-- 🔭 I’m currently working on learning... 
-- 🌱 I’m currently learning Full Stack Web Development with MERN
-
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
-
 <!--![Rabby Hasan Saref Banner- 1](https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
   <img src="https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1" alt="Md Shaharul Islam Banner" style="width: 100%;">
@@ -22,9 +7,9 @@ Skills: html,css,bootstrap,javascript,react js,node js,express js,mongodb
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
-<h1 align="center">Hi 👋, I'm Rabby Hasan Saref</h1>
-<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
-<p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
+<h1 align="center">Hi there 👋, I'am Shimon Ahamed Jibon</h1>
+<h3 align="center">I am GitHub Readme Generator's creator</h3>
+<p align="center">Hi ! I am SM Jiban Ahmed son of Md. Ataher PK. And My Mother Miss Emali Khatun .I am from Bangladesh, city Bogra. And I am 19 years old. Now I am studying Diploma in Engineering College TMSS Institute of Science and ICT, Bogra, Bangladesh. I am doing diploma in computer science. I learned web-design, web-development. . And with the help of Allah, I am constantly learning. I love my work very much. For me, my work is my main passion. I always want to learn something new. So I always beat myself up so I can always improve. I want to be a skilled and well educated web developer. I am always ready for that. I know programming language. I am web development html,css,bootstrap,javascript,react js,node js,express js,mongodb.</p>
 <p align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Shaharulislam" /> </p>
 <!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
