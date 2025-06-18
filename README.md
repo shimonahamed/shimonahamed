@@ -9,8 +9,11 @@
 
 
 <h1 align="center">Hi there 👋, I'am Shimon Ahamed Jibon</h1>
-<h3 align="center">I am GitHub Readme Generator's creator</h3>
-<p align="center">Hi ! I am SM Jiban Ahmed son of Md. Ataher PK. And My Mother Miss Emali Khatun .I am from Bangladesh, city Bogra. And I am 19 years old. Now I am studying Diploma in Engineering College TMSS Institute of Science and ICT, Bogra, Bangladesh. I am doing diploma in computer science. I learned web-design, web-development. . And with the help of Allah, I am constantly learning. I love my work very much. For me, my work is my main passion. I always want to learn something new. So I always beat myself up so I can always improve. I want to be a skilled and well educated web developer. I am always ready for that. I know programming language. I am web development html,css,bootstrap,javascript,react js,node js,express js,mongodb.</p>
+<p align="center">I am a passionate and dedicated Web & Software Developer with hands-on experience in building full-stack applications using Laravel, Vue.js, and the MERN stack.
+
+I started my professional journey through an internship at TMSS ICT Ltd., where I worked on real software projects and gained practical skills. Currently, I am working with TMSS ICT Ltd. as a developer, and enhancing my technical expertise every day.
+
+I am always eager to explore new technologies, solve challenging problems, and collaborate with like-minded professionals.</p>
 <p align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
